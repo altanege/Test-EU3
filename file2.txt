@@ -1,2 +1,9 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+added more stuff my own
+
+changes changes
+this is not my remote repor but I want to push 
+but I don not have access
+easiest solution Fork it
